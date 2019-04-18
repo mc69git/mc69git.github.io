@@ -5,3 +5,4 @@ permalink: /blog/:year-:month/:title
 # /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
+
