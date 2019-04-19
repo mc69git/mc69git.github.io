@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "MC, Github Pages Site 3"
 date: 2019-04-18
 ---
