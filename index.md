@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Welcome to GitHub Pages
 
 <form style="margin-bottom:10px;"><input type="text" placeholder="search.."></form>
