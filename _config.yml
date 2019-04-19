@@ -1,7 +1,7 @@
 name: MC, Github Pages Website
 markdown: kramdown
 
-permalink: /blog/:year-:month/:title
+permalink: /blog/:title
 # /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-minimal
